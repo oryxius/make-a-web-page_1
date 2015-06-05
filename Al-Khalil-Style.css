@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* This is the CSS document for M. Al Khalil Page */
+
+body {
+	padding: 20px 10px;
+	font-family: cambria;
+	max-width: 2000px;
+	margin: 0 auto;
+	font-size: 1.2em;
+}
+
+h1 {
+	font: italic 40px century;
+	text-align: center;
+	color: blue;
+	text-decoration: underline;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+
+p {
+	margin: 10px 0;
+}
+
+
+ol {
+	font-size: 20px;
+	line-height: 30px;
+}
+
+.part {
+	background-color: #964EEF;
+	border-radius: 20px;
+	color: white;
+	padding: 10px;
+	margin: 10px auto;
+}
+
+h2 {
+	margin: 10px;
+	color: yellow;
+	font-size: 25px;
+}
+
+h3 {
+	margin: 10px;
+	text-align:left;
+	font-size: 20px;
+}
+
+
+.section {
+	background-color:#F8F8F8;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: black;
+}
+
+.section-title {
+	font-size: 22px;
+	margin: 8px;
+	text-align: center;
+	color: #294860;
+}
+
+.section-detail {
+	font-weight: lighter;
+	margin: 6px;
+	color:#000000
+}
